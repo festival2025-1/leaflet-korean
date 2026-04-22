@@ -115,7 +115,7 @@ function showArrowsTemporarily() {
     instaIcon.style.height = "18px";
 
     const instaText = document.createElement("span");
-    instaText.textContent = "Official Instagram";
+    instaText.textContent = "서서페 인스타그램";
 
     instaLink.appendChild(instaIcon);
     instaLink.appendChild(instaText);
